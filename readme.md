@@ -1,1 +1,1 @@
-https://termius46.github.io/rsschool-cv/cv
+https://termius46.github.io/rsschool-cv/
